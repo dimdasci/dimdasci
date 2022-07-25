@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @dimdasci
-- 👀 I’m interested in applied data science.
-- 🌱 I’m currently learning Data Science course of Yandex Practicum.
+- 👀 I’m interested in applied data science and MLOps.
+- I’m currently learning Data Science course of Yandex Practicum.
 
+You can reach me out by dimds@fastmail.com.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
