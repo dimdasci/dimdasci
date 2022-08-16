@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @dimdasci
-- 👀 I’m interested in applied data science and MLOps.
-- I’m currently learning Data Science course of Yandex Practicum.
+- 👋 Hi, I’m Dmitrii or Dima to be shot )
+- As a solopreneur I am hepling my clients to solve business tasks with Data Science.
+- I am open for collaboration on ML or Data Engineering projects. 
+- I am addict to lifetime leraning, exciting to get more knowlledge and practice with Yandex DataScence+ 16 months course now.
 
 You can reach me out by dimds@fastmail.com.
 <!---
