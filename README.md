@@ -1,6 +1,6 @@
-👋 Hi, I’m Dmitrii or Dima to be short )
+👋 Hi, I’m Dmitrii or Dima to be short.
 
-As a solopreneur I am hepling my clients to solve business tasks with Data Science.
+As a solopreneur I am hepling my clients to solve business tasks with ML.
 
 I am open for collaboration on ML or Data Engineering projects. 
 
