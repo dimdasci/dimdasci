@@ -1,17 +1,2 @@
-👋 Hi, I’m Dmitrii or Dima to be short.
+👋 Hi, I’m Dmitrii, a Data scientist with 10 years of experience. Has a proven track record of applying machine learning to enhance digital advertising products. Enabled product analytics tools and processes for digital media and SaaS to support data-driven solutions. Consistently participated in AI ventures to stay up-to-date with the latest developments in the field.
 
-As a solopreneur I am hepling my clients to solve business tasks with ML.
-
-I am open for collaboration on ML or Data Engineering projects. 
-
-I am addict to lifetime leraning. Now I am exciting to get more knowlledge and practice with Yandex DataScence+ 16 months course.
-
-You can reach me out by dimds@fastmail.com.
-
-<!---
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-dimdasci/dimdasci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
