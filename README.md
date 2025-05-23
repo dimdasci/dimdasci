@@ -1,1 +1,42 @@
-👋 Hi, I’m Dim, an ML Engineer with 10 years of experiencea nd diverse skills in data science and software development. Has a proven track record of applying end-to-end machine learning projects to enhance digital products offering, reduce marketing costs and increase user engagement.
+# Intro
+
+Hi, I'm an AI/ML Engineer with product leadership experience. Hands-on builder and team leader.
+
+## About These Repositories
+Personal explorations and tools built outside of work. While my professional experience includes enterprise-scale systems and complex data architectures, these repos demonstrate my coding approach, technical interests, and commitment to continuous learning.
+
+## Current Focus
+- 🤖 LLMs & RAG Systems - Implementation, evaluation, and reproducibility
+- 📄 PDF Processing & Document Intelligence
+- 🛠️ AI Coding Tools - Cursor, Copilot, and workflow automation
+- 🔍 Search & Data - Graph databases, hybrid search, OpenSearch, Bleve
+- ☁️ Cloud Architecture (AWS) & CI/CD automation
+- 🐍 Python, Go, Rust
+
+## Selected Projects
+
+### Tools & Applications
+- [quicksight-sync](https://github.com/dimdasci/quicksight-sync) - AWS QuickSight migration toolkit (CDK-based)
+- [askweb](https://github.com/dimdasci/askweb) / [seek](https://github.com/dimdasci/seek) - LLM agentic workflows (Python prototype → Go for distribution)
+- [export-reddit-posts](https://github.com/dimdasci/export-reddit-posts) - Async data extraction with rate limiting
+
+### Infrastructure & ML
+- [sagemaker-foundation-models](https://github.com/dimdasci/sagemaker-foundation-models-deployment) - Production ML deployment patterns
+- [docker-samples](https://github.com/dimdasci/docker-samples) - Containerization for data science workflows
+
+### Learning & Exploration
+- ML/Data Science deep dives (time series, gradient boosting, neural networks)
+- Functional programming in Python and Scala
+- System design and architecture patterns
+
+## Professional Background
+- **20 years** building software and leading technical teams
+- **Recent hands-on**: LLMs, RAG, PySpark, Snowflake, AWS Serverless
+- **Domains**: FinTech, B2B Travel, Media platforms, Enterprise SaaS, AI/ML products
+
+## Let's Connect
+I'm interested in roles where I can apply both technical depth and product thinking to solve meaningful problems.
+
+📍 Madrid, Spain | 🌐 Remote-friendly | 💼 [LinkedIn](https://www.linkedin.com/in/dmitry-kharitonov/)
+
+💬 Open to: Senior engineering roles, Technical leadership, AI/ML positions
