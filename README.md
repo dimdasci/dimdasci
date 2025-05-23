@@ -20,6 +20,10 @@ Personal explorations and tools built outside of work. While my professional exp
 - [askweb](https://github.com/dimdasci/askweb) / [seek](https://github.com/dimdasci/seek) - LLM agentic workflows (Python prototype → Go for distribution)
 - [export-reddit-posts](https://github.com/dimdasci/export-reddit-posts) - Async data extraction with rate limiting
 
+### Data Science & ML
+- [apartment-price-model](https://github.com/dimdasci/apartment-price-model) - Complete ML workflow: EDA → model training → Docker API deployment
+- [rolling-forecast](https://github.com/dimdasci/rolling-forecast) - Revenue forecasting for hotel industry (project that led to my role at Vindow)
+
 ### Infrastructure & ML
 - [sagemaker-foundation-models](https://github.com/dimdasci/sagemaker-foundation-models-deployment) - Production ML deployment patterns
 - [docker-samples](https://github.com/dimdasci/docker-samples) - Containerization for data science workflows
